@@ -1,0 +1,41 @@
+{
+  "name": "pptx_template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Code-Guru-007/PPTX_template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Code-Guru-007/PPTX_template/issues"
+  },
+  "homepage": "https://github.com/Code-Guru-007/PPTX_template#readme",
+  "dependencies": {
+    "adm-zip": "^0.5.10",
+    "archiver": "^5.3.1",
+    "babel-polyfill": "^6.26.0",
+    "docxtemplater": "^3.37.12",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.1.1",
+    "image-size": "^1.0.2",
+    "node-jsxml": "^0.9.0",
+    "officegen": "^0.6.5",
+    "path": "^0.12.7",
+    "pizzip": "^3.1.4",
+    "ppt-template": "^1.0.9",
+    "pptx-image-templater": "^1.0.4",
+    "pptx-parser": "^1.1.7-beta.9",
+    "pptxgenjs": "^3.12.0",
+    "pptxtemplater": "^1.0.5",
+    "unzipper": "^0.10.14",
+    "xml2js": "^0.6.0",
+    "xmldom": "^0.6.0",
+    "xpath": "^0.0.32"
+  }
+}

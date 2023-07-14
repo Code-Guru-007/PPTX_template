@@ -1,0 +1,190 @@
+[
+    {
+        "1.1": {
+            "type": "text",
+            "value": "ON-SITE GREENHOUSE"
+        },
+        "1.2": {
+            "type": "text",
+            "value": "WE SOURCE INGREDIENTS FROM OUR ON-SITE GREENHOUSE."
+        },
+        "1.3": {
+            "type": "image",
+            "value": "./image/image1.jpg",
+            "alt": "{Alt_Page1_1}",
+            "masterslide": "true"
+        },
+        "1.4": {
+            "type": "text",
+            "value": "At Paramount Events, our green-forward initiatives start from the ground up. We uphold a steadfast commitment to sustainable, eco-friendly, and all organic practices by sourcing the bulk of our ingredients from local farms and purveyors."
+        },
+        "1.5": {
+            "type": "text",
+            "value": "fresh"
+        },
+        "1.6": {
+            "type": "image",
+            "value": "./image/image2.jpg",
+            "alt": "{Alt_Page1_2}",
+            "masterslide": "true"
+        },
+        "1.7": {
+            "type": "text",
+            "value": "SUSTAINABILITY"
+        },
+        "1.8": {
+            "type": "text",
+            "value": "WE FOCUS ON SUSTAINABILITY & ARE GREEN-CERTIFIED."
+        },
+        "1.9": {
+            "type": "text",
+            "value": "Our sustainability efforts include composting on-site and at off-site events and locations; eliminated single-use plastic water bottles in our office; reducing our use and trying to move away from disposable packaging; and working with food donation organizations and companies to decrease food waste."
+        }
+    },
+    {
+        "2.1": {
+            "type": "image",
+            "value": "./image/image3.jpg",
+            "alt": "{Alt_Page2_1}",
+            "masterslide": "false"
+        },
+        "2.2": {
+            "type": "text",
+            "value": "A FLAWLESS EXPERIENCE"
+        },
+        "2.3": {
+            "type": "text",
+            "value": "WE UNDERSTAND THE IMPORTANCE OF PULLING OFF A FLAWLESS EXPERIENCE FOR YOU AND YOUR GUESTS."
+        },
+        "2.4": {
+            "type": "text",
+            "value": "No matter the guest count, venue, or reason for celebrating - our team shows up to make it happen."
+        },
+        "2.5": {
+            "type": "text",
+            "value": "HI, I’M CHLOE BRYNIARSKI!"
+        },
+        "2.6": {
+            "type": "image",
+            "value": "./image/image4.jpg",
+            "alt": "{Alt_Page2_2}",
+            "masterslide": "true"
+        },
+        "2.7": {
+            "type": "text",
+            "value": "This is subtext"
+        },
+        "2.8": {
+            "type": "text",
+            "value": "CALL CHLOE BRYNIARSKI OR EMAIL CBRYNIARSKI@PARAMOUNTEVENTSCHICAGO.COM"
+        },
+        "2.9": {
+            "type": "text",
+            "value": "our team"
+        }
+    },
+    {
+        "3.1": {
+            "type": "text",
+            "value": "AN OVERVIEW"
+        },
+        "3.2": {
+            "type": "text",
+            "value": "OF YOUR EVENT"
+        },
+        "3.3": {
+            "type": "text",
+            "value": "CLIENT INFORMATION"
+        },
+        "3.4": {
+            "type": "text",
+            "value": {
+                "name": "Client Name",
+                "email": "Client Email"
+            }
+        },
+        "3.5": {
+            "type": "text",
+            "value": "DATE"
+        },
+        "3.6": {
+            "type": "text",
+            "value": "Event Date"
+        },
+        "3.7": {
+            "type": "text",
+            "value": "VENUE INFORMATION"
+        },
+        "3.8": {
+            "type": "text",
+            "value": {
+                "name": "Name",
+                "address": "Address",
+                "city": "Chicago",
+                "state": "Illinois",
+                "postcode": 60611
+            }
+        },
+        "3.9": {
+            "type": "text",
+            "value": "SAMPLE TIMELINE"
+        },
+        "3.10": {
+            "type": "table",
+            "value": [
+                {
+                    "time": "3:00pm",
+                    "description": "Paramount Events Team Arrives for Set-Up"
+                },
+                {
+                    "time": "6:00pm",
+                    "description": "Cocktail Reception Begins"
+                },
+                {
+                    "time": "",
+                    "description": "Bars Open"
+                },
+                {
+                    "time": "",
+                    "description": "Hors D’oeuvre Passing Begins"
+                },
+                {
+                    "time": "6:30pm",
+                    "description": "Hors D’oeuvre Stations Open"
+                },
+                {
+                    "time": "7:00pm",
+                    "description": "Hors D’oeuvre Passing Concludes"
+                },
+                {
+                    "time": "8:00pm",
+                    "description": "Event Concludes"
+                },
+                {
+                    "time": "9:00pm",
+                    "description": "Paramount Events Completes Breakdown"
+                }
+            ]
+        },
+        "3.11": {
+            "type": "text",
+            "value": "GUEST COUNT"
+        },
+        "3.12": {
+            "type": "text",
+            "value": "600"
+        },
+        "3.13": {
+            "type": "image",
+            "value": "./image/image5.jpg",
+            "alt": "{Alt_Page3_1}",
+            "masterslide": "true"
+        },
+        "3.14": {
+            "type": "image",
+            "value": "./image/image6.jpg",
+            "alt": "{Alt_Page3_2}",
+            "masterslide": "true"
+        }
+    }
+]
