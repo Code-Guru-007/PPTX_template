@@ -1,7 +1,6 @@
 const PizZip = require("pizzip");
 const Docxtemplater = require("docxtemplater");
 const path = require("path");
-const unzipper = require("unzipper");
 const fs = require("fs");
 const xpath = require('xpath');
 const dom = require('xmldom').DOMParser;
